@@ -1,0 +1,6 @@
+{
+  "name": "SkyCut",
+  "description": "Professional mobile video editor with multi-track timeline, effects, audio editing, and high-quality MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
